@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>WinTitle.qml</file>
+        <file>res/beep.png</file>
+        <file>CustomeFooter.qml</file>
+        <file>SimpleButton.qml</file>
+    </qresource>
+</RCC>
